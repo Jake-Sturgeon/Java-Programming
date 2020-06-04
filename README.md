@@ -15,3 +15,6 @@ java PlayConnect4 -nogui
 ```bash
 java PlayConnect4 -gui
 ```
+
+## Documentation
+Documentation can be found in the JavaDoc folder
